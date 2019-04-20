@@ -1,0 +1,59 @@
+1001,John,21,Sports,4,1002,Good
+1002,Tom,25,Astrology,2,4512,Bad
+1003,Jose,18,Songs,3,5465,Average
+1004,Cris,16,Porn,4,7845,Fine
+1005,Jin,56,Movie,1,89522,Excellent
+1006,Aakesh,47,Training,5,1456,Very Good
+1007,Sarvesh,22,Technical,3,12112,Poor
+1008,Abhishek,31,Comedy,3,5487,Good
+1009,Sheetal,36,Sports,3,124,Bad
+1010,Amit,48,Astrology,2,36,Average
+1011,Nagendra,19,Songs,1,15469,Fine
+1012,Pawan,17,Porn,4,147,Excellent
+1013,Rahul,18,Movie,5,156,Very Good
+1014,Bhanu,18,Training,5,14578,Poor
+1015,Chandrajit,34,Technical,4,6548,Good
+1016,Gagan,26,Comedy,4,5289,Bad
+1017,Priya,14,Sports,4,7854',Average
+1018,Vijay,54,Astrology,4,466,Fine
+1019,Shailendra,14,Songs,3,4546,Excellent
+1020,Prakhar,15,Porn,1,84584,Very Good
+1021,Navneet,16,Movie,2,4568,Poor
+1022,Sangeeta,17,Training,4,185,Good
+1023,Tim,18,Technical,2,508,Bad
+1024,Ramesh,19,Comedy,3,831,Average
+1025,Eddy,20,Sports,4,1154,Fine
+1026,Silvana,21,Astrology,1,1477,Excellent
+1027,Bessie,22,Songs,5,1800,Very Good
+1028,Usha,23,Porn,3,2123,Poor
+1029,Kiran,24,Movie,3,2446,Good
+1030,Neelu,25,Training,3,2769,Bad
+1031,Ankit,26,Technical,2,3092,Average
+1032,Prachi,27,Comedy,1,3415,Fine
+1033,Agit,28,Sports,4,3738,Excellent
+1034,Chirag,29,Astrology,5,4061,Very Good
+1035,Manisha,30,Songs,5,4384,Poor
+1036,Subhash,31,Porn,4,4707,Good
+1037,Kamal,32,Movie,4,5030,Bad
+1038,Saroj,33,Training,4,5353,Average
+1039,Geeta,34,Technical,4,5676,Fine
+1040,Munni,35,Comedy,3,5999,Excellent
+1041,Sheela,36,Sports,1,6322,Very Good
+1042,Santosh,37,Astrology,2,6645,Poor
+1043,Sheela,38,Songs,4,6968,Good
+1044,Manisha,39,Porn,2,7291,Bad
+1045,Jose,40,Movie,3,7614,Average
+1046,Cris,41,Training,4,7937,Fine
+1047,Jin,42,Technical,1,8260,Excellent
+1048,Aakesh,43,Comedy,5,8583,Very Good
+1049,Sarvesh,44,Sports,3,8906,Poor
+1050,Abhishek,45,Astrology,3,9229,Good
+1051,Sheetal,46,Songs,3,9552,Bad
+1052,Amit,47,Porn,2,9875,Average
+1053,Nagendra,48,Movie,1,10198,Fine
+1054,Pawan,49,Training,4,10521,Excellent
+1055,Rahul,50,Technical,5,10844,Very Good
+1056,Bhanu,51,Comedy,5,11167,Poor
+1057,Chandrajit,52,Sports,4,11490,Good
+1058,Gagan,53,Astrology,4,11813,Bad
+1059,Priya,54,Songs,4,12136,Average
